@@ -64,7 +64,6 @@ Team di manutenzione e aggiornamento database e server sarà costituito da 3 per
 <br>
 Team di sviluppo pagine multimediali sarà composto da 2 persone
 
-<h2> Documenti di riferimento e allegati </h2>
 
  
  
