@@ -7,7 +7,8 @@ Codice identificativo progetto: 001
 Creazione di un sistema che permette la fruizione di video, descrizioni scritte e immagini (in varie lingue) di punti di interesse in una città d'arte. 
 Usufruibile attraverso un minitablet fornito da uno degli InfoPoint e da una credenziale di accesso.
 Le credenziali vengono fornite all'InfoPoint scegliendo una delle tre tarrife: base (solo pagine multimediali base), intermedia (3 pagine multimediali avanzate a scelta e le altre base), piena ( solo pagine multimediali avanzate).
-
+<h2> Ipotesi aggiuntive</h2>
+<p>didascalie foto e video verranno fornite da L'Assessorato al turismo della città d'arte</p>
 <h2> Lista degli stakeholder </h2>
 <ul>
   <li>Utente (colui che usufruisce del servizio)</li>
