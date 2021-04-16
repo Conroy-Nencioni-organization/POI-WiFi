@@ -43,14 +43,14 @@ Le credenziali vengono fornite all'InfoPoint scegliendo una delle tre tarrife: b
  </ul>
 
 <h2> Tempistica Preliminare </h2>
-Il progetto inizia nell'immediato (17/03/2021) e deve essere concluso entro 6 mesi
+Il progetto inizia nell'immediato (17/03/2021) e deve essere concluso nell'arco di 2 mesi
 
 <h2> Costi: </h2>
 <ul>
-  <li> Costo di creazione di un Database: 5000$ </li>
-  <li> Infrastruttura Server: circa 2000$ </li>
+  <li> Costo di creazione di un Database: circa 5000 euro </li>
+  <li> Infrastruttura Server: 5000 euro </li>
   <li> Costo minitablet: 200$ a unità </li>
-  <li> Creazione pagine multimediali: 2000$ </li>
+  <li> Creazione pagine multimediali: 200$ </li>
   <li> Manutenzione e aggiornamento database e server: 20$ all'ora </li>
   <li> Rete internet: 40$ al mese </li>
   <li> Indirizzo pubblico: 50$ all'anno </li>
